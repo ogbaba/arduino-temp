@@ -1,0 +1,3 @@
+# Temperature
+Affiche la température à l'aide d'un capteur DHT11, une carte arduino,
+un bouton, pyserial et notify-send…
